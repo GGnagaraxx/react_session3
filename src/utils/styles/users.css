@@ -1,3 +1,7 @@
+.users-comp{
+    margin: 10px 0 10px 0!important;
+}
+
 .userList-comp{
     width: 90vw;
     min-height: 500px;
@@ -8,4 +12,8 @@
 .userList-comp .comp-title {
     border-bottom: 1px solid gray;
     background-color: #212121;
+}
+
+.user-col {
+    padding: 10px;
 }
