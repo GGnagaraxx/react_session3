@@ -1,0 +1,11 @@
+.userList-comp{
+    width: 90vw;
+    min-height: 500px;
+    max-height: 80vh;
+    overflow-y: scroll;
+}
+
+.userList-comp .comp-title {
+    border-bottom: 1px solid gray;
+    background-color: #212121;
+}
